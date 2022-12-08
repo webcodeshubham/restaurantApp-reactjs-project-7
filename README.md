@@ -1,5 +1,5 @@
 # Restaurant Landing Page
-### [Replit Live Site]()
+### [Replit Live Site](https://restaurantapp-reactjs.shubhamshriva15.repl.co/)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
