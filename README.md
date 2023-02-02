@@ -2,7 +2,7 @@
 
 This Project explains the core concepts of Responsive Design using HTML, CSS & JavaScript along with Animations. React JS Library which include Dependencies Installation using yarn add & npm install Project Flow, Project Layout Approach, States, useState Hook, createContext(), CRUD, find() Array Method, Static ArrayOfObjects, BEM Model, useNavigate, Ternary operators, Convert Array into Object, React-Router-DOM, Basic Logic &amp; How to initialise &amp; setup a React Project, much more.
 
-[LIVE HOSTED WEBSITE REPLIT]https://restaurantapp-reactjs.shubhamshriva15.repl.co/)
+[LIVE HOSTED WEBSITE REPLIT](https://restaurantapp-reactjs.shubhamshriva15.repl.co/)
 
 # Screenshot
 
